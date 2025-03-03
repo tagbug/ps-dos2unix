@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> Smart cross-platform line ending converter with advanced encoding support
+> Smart line ending converter with advanced encoding support for PowerShell
 
 **English** | [中文文档](docs/README_ZH.md)
 

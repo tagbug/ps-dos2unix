@@ -2,7 +2,7 @@
 
 [![许可证: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> 智能跨平台行尾符转换工具，支持高级编码处理
+> 专为Powershell编写的智能行尾符转换工具，支持高级编码处理
 
 **中文** | [English Document](../README.md)
 
